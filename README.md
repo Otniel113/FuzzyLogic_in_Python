@@ -64,6 +64,9 @@ Nilai Konstan Ci sebagai berikut: <br>
 Menghasilkan file 'peringkat.xlsx' berisi id pelanggan sebagai berikut <br>
 ![image](https://user-images.githubusercontent.com/57952404/148391303-7023f02c-2b5f-43d1-b6d0-128dfffb6c66.png)
 
+## Lebih Lanjut
+Informasi lengkap ada di Laporan PDF dan Slide PPT
+
 ## Video Presentasi
 [Klik untuk melihat video presentasi](https://drive.google.com/file/d/1PG9sHg4BqUaPysBnjusfmOiAvgfuseic/view?usp=sharing)
 
